@@ -63,10 +63,10 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  name             : "Bram Van Moorter"
+  avatar           : "enso.gif"
+  bio              : "My reflections while sitting at a mountain lake"
+  location         : "Trondheim"
   email            :
   uri              :
   bitbucket        :
